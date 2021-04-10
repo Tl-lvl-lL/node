@@ -1,0 +1,17 @@
+{
+  "name": "online-market",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts":{
+    "server":"nodemon main.js"
+  },
+  "keywords": [],
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "express": "^4.17.1",
+    "node": "^15.8.0"
+  }
+}
